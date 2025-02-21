@@ -8,7 +8,7 @@
 ## Um pouco sobre mim          
 
 
-Sempre gostei muito da area de tecnologia, desde de criança fiz cursos sobre o mesmo buscando constantemente melhorar meu conhecimento e habilidades.
+Sempre gostei muito da área de tecnologia, desde de criança fiz cursos sobre o mesmo buscando constantemente melhorar meu conhecimento e habilidades.
 
 Atualmente, estou em busca de novas oportunidades para conseguir aplicar tudo que estudei. Amo resolver problemas complexos, trabalhar em equipe e aprender constantemente.
 
