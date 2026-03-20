@@ -1,36 +1,51 @@
-# Diego-Goncalves
+# Hi there! I'm Diego Gonçalves 👋
 
+### Fullstack Software Engineer & Game Developer 🎮💻
 
-<h1>Opa! Meu nome é Diego Gonçalves</h1>
-         
 <hr>
 
-## Um pouco sobre mim          
+## 👨‍💻 About Me
 
+I am a Software Engineer with a unique foundation in game development. I started my tech career early as a Game Development Instructor, which gave me a deep understanding of core programming logic, game loops, and system architecture. 
 
-Sempre gostei muito da área de tecnologia, desde de criança fiz cursos sobre o mesmo buscando constantemente melhorar meu conhecimento e habilidades.
+Currently, I build high-performance, scalable fullstack applications using **Go, Node.js, and TypeScript** for robust backends, alongside **React and React Native** for intuitive frontends. 
 
-Atualmente, estou em busca de novas oportunidades para conseguir aplicar tudo que estudei. Amo resolver problemas complexos, trabalhar em equipe e aprender constantemente.
+My ultimate goal is to combine my versatile fullstack web development skills with my roots in game development to build complete, scalable systems, LiveOps, and engaging user experiences for innovative studios. 
 
-Minhas áreas de interesse incluem desenvolvimento web, desenvolvimento de games e analista de dados.
+* 🎓 B.S. in Computer Science Student.
+* 🌍 Advanced English & Native Portuguese.
+* 🎯 Always open to discussing game architecture, backend scaling, and new opportunities.
 
-Meus contatos: [e-mail](diegogpssth@gmail.com).
+## 📫 Get in Touch
 
-## Entre em contato
+* **Email:** [diegogpssth@gmail.com](mailto:diegogpssth@gmail.com)
+* **LinkedIn:** [Diego Gonçalves](https://www.linkedin.com/in/diego-gonçalves-14ab69251/)
 
-- LinkedIn: [Diego Gonçalves](https://www.linkedin.com/in/diego-gonçalves-14ab69251/)
+<hr>
 
- 
-<h2> <strong> Linguagens e ferramentas </strong> </h2>
+## 🛠️ Languages & Tools
+
+### 🌐 Fullstack & Backend
 <div>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+<br>
+
+### 🎮 Game Development
+<div>
+    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 <hr>
