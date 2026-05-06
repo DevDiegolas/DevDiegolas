@@ -20,6 +20,7 @@ My ultimate goal is to combine my versatile fullstack web development skills wit
 
 * **Email:** [diegogpssth@gmail.com](mailto:diegogpssth@gmail.com)
 * **LinkedIn:** [Diego Gonçalves](https://www.linkedin.com/in/diego-gonçalves-14ab69251/)
+* **Portfólio:** https://portifolio-diego-vert.vercel.app/ (still under development)
 
 <hr>
 
