@@ -1,4 +1,4 @@
-# Hi there! I'm Diego Gonçalves 👋
+# I'm Diego Gonçalves 👋
 
 ### Fullstack Software Engineer & Game Developer 🎮💻
 
